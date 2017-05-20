@@ -1,0 +1,6 @@
+p1->bt4
+p2->powers
+p3->a-z|z-a cipher
+p4->series1
+p5->series2
+p6->cipher5
